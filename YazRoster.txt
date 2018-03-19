@@ -23,7 +23,7 @@ Dl,Jake Metz,27,2013,63,63,91,75,91,45,1,5
 Dl,Larry Webster,30,2013,71,67,78,87,96,56,1,5
 Lb,Neal Howey,27,2011,69,92,83,75,85,94,1,5
 Lb,LeRon Furr,25,2015,72,89,86,75,89,89,1,5
-End Players
+END_PLAYERS
 Kentucky Lynx,KY
 Qb,Jerod Lorenzon,28,2011,84,81,96,86,79,20,1,5
 Qb,Brandon Doughty,24,2016,78,65,94,84,75,44,1,5
@@ -49,7 +49,7 @@ Dl,Chris Jones,27,2012,87,60,85,88,80,74,1,5
 Dl,Jarius Wynn,29,2007,74,87,92,87,72,75,1,5
 Lb,Jason Dimanche,25,2013,62,65,91,74,62,64,1,5
 Lb,Dan Molls,25,2013,78,69,90,71,61,54,1,5
-End Players
+END_PLAYERS
 Canton Legacy,CL
 Qb,Charlie Frye,29,2009,60,65,93,85,79,54,1,5
 Qb,James Knapke,23,2015,63,51,83,80,76,71,1,5
@@ -75,7 +75,7 @@ Dl,Kendall Montgomery,24,2015,83,46,92,81,77,61,1,5
 Dl,Curtis Young,28,2011,82,55,87,83,75,70,1,5
 Lb,Evan Frierson,28,2009,82,87,94,85,82,87,1,5
 Lb,JD Griggs,26,2012,67,55,76,78,84,51,1,5
-End Players
+END_PLAYERS
 Birmingham Pounders,BP
 Qb,Dan Lefevre,27,2011,82,95,90,104,100,77,21,1,5
 Qb,Brody Croyle,27,2011,81,53,95,92,77,20,0.5,5
@@ -100,7 +100,7 @@ Dl,Tyrone Saunders,23,2015,87,72,84,91,82,82,1,5
 Dl,Houston Bates,27,2013,84,83,88,90,89,88,1,5
 Lb,Brandon Wilkinson,26,2013,71,72,81,85,77,72,1,5
 Lb,Saleed Rasheed,29,2007,91,66,80,74,88,66,1,5
-End Players
+END_PLAYERS
 Syracuse Rhinos,SR
 Qb,Ryan Nassib,26,2011,70,65,87,90,75,63,1,5
 Qb,Rakeem Cato,26,2014,91,65,87,93,75,69,1,5
@@ -125,7 +125,7 @@ Dl,Corbin Bryant,28,2009,61,68,88,86,75,66,1,5
 Dl,Jerry Hughes,27,2013,83,80,91,66,71,68,1,5
 Lb,Marcus Whitfield,25,2013,62,60,89,79,60,71,1,5
 Lb,Shaq Lawson 25,2014,95,65,85,90,88,75,1,5
-End Players
+END_PLAYERS
 Orlando Manatees,OR
 Qb,Christian Ponder,28,2009,100,78,94,91,87,67,1,5
 Qb,Logan Thomas,26,2013,83,52,88,93,72,68,1,5
@@ -149,7 +149,7 @@ Dl,Jason Jones,29,2008,81,75,92,85,85,75,1,5
 Dl,Deandre Coleman,25,2014,63,53,94,88,72,77,1,5
 Lb,Chris McCain,24,2016,62,67,93,66,67,68,1,5
 Lb,Zach Vigil,25,2015,63,54,91,76,54,56,1,5
-End Players
+END_PLAYERS
 Hartford Heroes,HH
 Qb,Blake Frohnapfel,24,2016,87,57,95,90,80,47,1,5
 Qb,Dan Orlovsky,33,2005,58,99,90,104,107,20,1,5
@@ -173,7 +173,7 @@ Dl,Kelcy Quarles,24,2014,63,53,91,84,78,73,1,5
 Dl,Harold Landry,22,2016,97,83,86,89,84,78,1,5
 Lb,Rufus Johnson,25,2013,73,58,86,76,83,55,1,5
 Lb,Josh McNary,27,2012,60,71,87,75,81,67,1,5
-End Players
+END_PLAYERS
 New Mexico Missiles,NM
 Qb,Andrew McDonald,26,2013,84,68,92,95,77,71,1,5
 Qb,Nick Montana,26,2014,83,48,79,91,77,58,1,5
@@ -197,7 +197,7 @@ Dl,Shelby Harris,24,2014,69,45,90,84,77,76,1,5
 Dl,Deon Simon,25,2015,75,48,75,93,71,85,1,5
 Lb,Trevor Reilly,28,2014,68,56,85,76,67,70,1,5
 Lb,Josh Martin,24,2013,62,60,90,76,77,61,1,5
-End Players
+END_PLAYERS
 San Antonio Rogues,SA
 Qb,Johnny Manziel,26,2013,90,70,90,85,76,46,1,5
 Qb,Seth Doege,27,2010,85,58,94,91,69,20,1,5
@@ -221,7 +221,7 @@ Dl,Jeoffrey Pagan,23,2014,72,52,80,87,72,85,1,5
 Dl,Christian Covington,22,2016,75,50,76,77,82,76,1,5
 Lb,Max Bullough,24,2014,64,55,92,76,79,76,1,5
 Lb,Reshard Cliett,24,2015,75,40,86,78,64,50,1,5
-End Players
+END_PLAYERS
 Little Rock Ramblers,LR
 Qb,Ryan Mallett,28,2011,89,68,95,84,75,57,1,5
 Qb,Ryan Alpin,25,2014,64,42,85,90,73,70,1,5
@@ -245,7 +245,7 @@ Dl,Joe Vellano,27,2011,61,69,93,85,79,82,1,5
 Dl,Billy Winn,27,2012,65,77,87,78,56,80,1,5
 Lb,Amarlo Herrera,24,2015,73,53,92,79,74,72,1,5
 Lb,Sio Moore,26,2014,86,73,89,82,84,75,1,5
-End Players
+END_PLAYERS
 North Florida Steer,NF
 Qb,Tim Tebow,28,2010,102,67,96,91,74,65,1,5
 Qb,Everett Golson,23,2016,86,73,90,89,70,49,1,5
@@ -269,7 +269,7 @@ Dl,Demarcus Walker,22,2016,99,65,88,94,85,77,1,5
 Dl,Chris Smith,24,2014,77,56,93,85,82,65,1,5
 Lb,Brandon Hicks,27,2011,73,67,94,75,50,72,1,5
 Lb,Bjoern Werner,25,2013,91,73,92,76,82,74,1,5
-End Players
+END_PLAYERS
 Mississippi Manhandlers,MM
 Qb,Bo Wallace,28,2015,98,60,93,89,88,79,1,5
 Qb,KD Humphries,22,2016,76,56,88,86,76,55,1,5
@@ -293,7 +293,7 @@ Dl,Angelo Blackmon,23,2015,83,53,90,76,74,81,1,5
 Dl,Karl Klug,28,2011,74,82,80,88,73,65,1,5
 Lb,Curtis Grant,23,2015,64,56,76,77,62,51,1,5
 Lb,David Bass,25,2013,66,65,95,67,70,58,1,5
-End Players
+END_PLAYERS
 Salt Lake City Mares,SLC
 Qb,Chuckie Keaton,27,2012,90,65,85,94,88,50,1,5
 Qb,Riley Nelson,28,2013,68,53,78,79,74,59,1,5
@@ -317,7 +317,7 @@ Dl,Darius Kilgo,24,2015,74,45,88,93,6987,1,5
 Dl,Antonio Smith,34,2004,65,87,96,85,87,65,1,5
 Lb,Todd Davis,24,2014,62,53,94,85,63,67,1,5
 Lb,Dekoda Watson,27,2011,68,69,84,76,64,67,1,5
-End Players
+END_PLAYERS
 Wichita Tribe,WT
 Qb,Carson Coffman,28,2013,61,52,87,93,69,20,1,5
 Qb,Josh Freeman,30,2006,87,64,85,96,85,54,1,5
@@ -341,7 +341,7 @@ Dl,Jimmy Staten,25,2014,79,50,89,86,71,84,1,5
 Dl,David King,26,2013,68,62,92,83,75,81,1,5
 Lb,Andy Mulumba,26,2013,62,62,88,72,68,63,1,5
 Lb,Jonathan Massaquoi,28,2012,76,72,91,73,83,66,1,5
-End Players
+END_PLAYERS
 Las Vegas Gangsters,LV
 Qb,Cody Fajardo,26,2013,61,71,92,79,72,55,1,5
 Qb,Nick Sherry,26,2013,87,70,97,96,84,65,1,5
@@ -365,7 +365,7 @@ Dl,Damontre Moore,24,2013,82,65,90,65,89,64,1,5
 Dl,Stacy McGee,25,2014,71,69,85,85,77,80,1,5
 Lb,Colton Underwood,24,2014,64,64,88,78,82,63,1,5
 Lb,Daren Bates,25,2013,61,64,88,79,54,45,1,5
-End Players
+END_PLAYERS
 San Diego Voltage,SD
 Qb,Ryan Lindley,25,2013,80,70,85,83,72,35,1,5
 Qb,Zach Maynard,25,2013,72,67,82,95,76,39,1,5
@@ -389,7 +389,7 @@ Dl,Damion Square,27,2013,62,69,87,80,81,68,1,5
 Dl,Ben Gardner,25,2014,68,52,83,74,79,76,1,5
 Lb,Joe Mays,30,2008,65,81,95,87,76,77,1,5
 Lb,Cordarro Law,27,2012,65,62,90,71,69,55,1,5
-End Players
+END_PLAYERS
 Boise Blue Kodiak,BK
 Qb,Kellen Moore,26,2011,77,72,86,84,83,44,1,5
 Qb,Taylor Tharp,24,2014,73,54,93,83,81,43,1,5
@@ -413,7 +413,7 @@ Dl,Will Sutton,24,2014,82,65,87,82,81,80,1,5
 Dl,Ego Furgusson,24,2014,87,67,89,93,76,84,1,5
 Lb,Lamin Barrow,25,2013,77,55,93,78,59,64,1,5
 Lb,Sam Acho,27,2011,79,71,95,82,87,82,1,5
-End Players
+END_PLAYERS
 St Louis Leopards,STL
 Qb,Chase Daniel,28,2009,97,76,84,99,85,39,1,5
 Qb,Todd Reesing,25,2013,69,70,91,79,72,20,1,5
@@ -437,7 +437,7 @@ Dl,Wallace Gilberry,31,2008,56,78,90,87,65,67,1,5
 Dl,Gabe Wright,24,2014,83,46,90,89,72,64,1,5
 Lb,Zavier Gooden,26,2013,82,68,84,75,61,66,1,5
 Lb,Jerry Franklin,28,2012,61,65,95,82,55,68,1,5
-End Players
+END_PLAYERS
 Great Britain Emperors,GB
 Qb,Nick Florence,24,2013,83,95,88,95,91,90,1,5
 Qb,Thomas Rees,23,2015,78,47,90,91,68,70,1,5
@@ -461,7 +461,7 @@ Dl,Mike Pennel,25,2013,62,64,92,87,76,78,1,5
 Dl,George McCarthy,26,2014,90,65,85,90,89,86,1,5
 Lb,Lerentee McCray,25,2013,61,66,74,73,79,58,1,5
 Lb,Carl Bradford,23,2014,83,68,96,79,65,72,1,5
-End Players
+END_PLAYERS
 Dakota Danger,DD
 Qb,Brock Jensen,24,2014,87,57,95,90,80,57,1,5
 Qb,Keith Wenning,24,2014,73,64,91,81,89,89,1,5
@@ -485,7 +485,7 @@ Dl,Kenrick Ellis,28,2011,79,69,88,92,81,85,1,5
 Dl,Zach Moore,25,2014,72,49,92,78,71,79,1,5
 Lb,Casey Matthews,27,2011,65,72,90,82,63,66,1,5
 Lb,Travis Lewis,28,2012,70,70,87,80,60,68,1,5
-End Players
+END_PLAYERS
 El Paso Posse,EP
 Qb,Jordan Palmer,28,2012,64,37,87,91,63,70,1,5
 Qb,Jameil Showers,24,2015,64,37,87,91,63,70,1,5
@@ -509,7 +509,7 @@ Dl,Ryan Russell,24,2015,78,45,85,79,80,65,1,5
 Dl,Casey Walker,26,2013,63,54,88,85,78,72,1,5
 Lb,Brandon Hepburn,26,2013,69,66,91,82,62,72,1,5
 Lb,Mark Nzeocha,26,2013,68,45,76,81,56,43,1,5
-End Players
+END_PLAYERS
 New Jersey Juggernauts,NJ
 Qb,Mike Teel,26,2013,72,56,86,84,71,66,1,5
 Qb,BJ Daniels,26,2013,67,45,85,84,71,37,1,5
@@ -533,7 +533,7 @@ Dl,Kerry Wynn,25,2014,63,55,94,86,76,77,1,5
 Dl,Montori Hughes,25,2013,76,65,94,84,81,80,1,5
 Lb,Devon Kennard,23,2014,78,74,80,83,88,76,1,5
 Lb,Kelvin Sheppard,28,2011,84,74,95,82,66,71,1,5
-End Players
+END_PLAYERS
 Deleware Freebirds,DE
 Qb,Dominik Randolph,29,2010,57,70,90,82,75,45,1,5
 Qb,Trent Herly,24,2014,98,76,71,87,75,29,1,5
@@ -553,7 +553,7 @@ Cb,Jaylen Watkins,23,2014,83,48,94,85,93,65,1,5
 Dl,Mike Martin,25,2012,80,70,87,84,83,69,1,5
 Dl,Beau Allen,24,2014,72,61,93,87,74,83,1,5
 Lb,Najee Goode,27,2012,75,66,88,74,70,61,1,5
-End Players
+END_PLAYERS
 Tulsa Natives,TU
 Qb,GJ Kinne,27,2012,80,66,88,84,71,30,1,5
 Qb,Colt McCoy,29,2010,78,69,88,81,74,60,1,5
@@ -576,7 +576,7 @@ Dl,Lynden Trail,25,2015,64,45,94,71,68,54,1,5
 Dl,Jerrell Powe,29,2011,71,72,88,92,81,85,1,5
 Lb,Will Compton,26,2013,62,68,91,80,72,70,1,5
 Lb,Terrence Garvin,25,2013,61,62,92,78,64,65,1,5
-End Players
+END_PLAYERS
 Colombia Condors,CC
 Qb,Stephen Garcia,26,2012,72,82,80,81,74,37,1,5
 Qb,Matt Simms,27,2012,61,45,85,86,72,34,1,5
@@ -598,7 +598,7 @@ Dl,Malliciah Goodman,26,2013,76,69,95,84,76,76,1,5
 Dl,Grady Jarrett,23,2015,78,51,84,87,79,64,1,5
 Lb,Tyler Starr,25,2014,67,45,94,76,74,68,1,5
 Lb,Laroy Reynolds,25,2013,61,67,88,78,70,66,1,5
-End Players
+END_PLAYERS
 Winston-Salem Mountain-Cats,WS
 Qb,Riley Skinner,29,2009,63,72,90,92,72,37,1,5
 Qb,Joe Webb,29,2010,68,66,88,89,66,77,1,5
@@ -622,7 +622,7 @@ Dl,Wes Horton,26,2013,61,75,88,76,81,73,1,5
 Dl,Matthew Masifilo,26,2012,63,67,92,93,58,48,1,5
 Lb,Stanley Arnoux,30,2006,83,89,79,99,92,99,1,5
 Lb,Ben Jacobs,28,2011,61,70,95,78,74,69,1,5
-End Players
+END_PLAYERS
 Memphis Riverboats,MR
 Qb,Matt Flynn,28,2009,72,76,82,83,87,75,1,5
 Qb,Logan Kilgore,26,2012,83,65,82,83,73,54,1,5
@@ -644,7 +644,7 @@ Dl,Lawrence Virgil,25,2014,65,49,94,94,81,71,1,5
 Dl,Obum Gwacham,25,2015,73,38,87,74,60,59,1,5
 Lb,Anthony Spencer,32,2007,65,80,83,72,65,80,1,5
 Lb,Kasim Edebali,26,2014,62,64,91,71,80,65,1,5
-End Players
+END_PLAYERS
 Caribbean Blackbeards,CB
 Qb,Andre Woodson,28,2012,93,79,97,95,76,67,1,5
 Qb,Rusty Smith,26,2013,86,69,96,93,93,73,32,1,5
@@ -663,7 +663,7 @@ Dl,AJ Francis,26,2013,62,49,90,79,73,87,1,5
 Dl,TJ Fatinikun,24,2014,65,63,82,74,67,65,1,5
 Lb,Danny Lansanah,30,2008,65,78,90,86,72,79,1,5
 Lb,Adarius Glanton,25,2014,63,54,90,79,64,56,1,5
-End Players
+END_PLAYERS
 Tuscon Thrashers,TT
 Qb,Matt Barkley,25,2013,81,54,87,84,75,48,1,5
 Qb,Taylor Kelly,24,2014,80,69,86,89,72,30,1,5
@@ -683,7 +683,7 @@ Dl,Olson Pierre,24,2015,64,53,90,75,75,81,1,5
 Dl,Josh Mauro,25,2014,62,61,95,85,71,78,1,5
 Dl,Ed Stinson,26,2014,77,56,79,88,78,83,1,5
 Lb,Kenny Demens,26,2013,65,62,94,80,77,68,1,5
-End Players
+END_PLAYERS
 Los Angeles Gladiators,LA
 Qb,Colt Casey,32,2007,77,65,89,88,76,56,1,5
 Qb,Dylan Thompson,24,2015,64,49,90,86,77,76,1,5
@@ -702,7 +702,7 @@ Cb,Marcus Robinson,23,2014,93,90,91,92,90,90,1,5
 Dl,Dominique David,24,2014,95,92,91,88,89,87,1,5
 Dl,Cam Thomas,26,2013,98,94,95,94,92,94,1,5
 Lb,Bryce Hager,24,2015,98,89,94,90,85,89,1,5
-End Players
+END_PLAYERS
 Portland Frontier,PF
 Qb,Sean Mannion,27,2012,80,84,94,98,95,97,1,5
 Qb,Keith Price,26,2013,80,76,81,93,70,67,1,5
@@ -723,7 +723,7 @@ Cb,Stanley Jean-Baptiste,26,2014,87,46,93,83,91,61,1,5
 Dl,Justin Hamilton,22,2015,63,50,87,85,83,62,1,5
 Lb,Nick Moody,26,2013,65,68,77,77,71,75,1,5
 Lb,Khairi Fortt,24,2014,78,57,78,73,68,64,1,5
-End Players
+END_PLAYERS
 San Jose Gold,SJ
 Qb,David Fales,25,2014,84,75,95,95,78,80,1,5
 Qb,Kevin Hogan,24,2015,82,77,92,89,83,81,1,5
@@ -742,4 +742,4 @@ Cb,Chris Davis,25,2014,62,60,93,76,87,78,1,5
 Dl,Kaleb Ramsey,27,2012,68,52,72,94,78,84,1,5
 Lb,Nick Bellore,27,2012,59,70,87,86,64,72,1,5
 Lb,Gerald Hodges,25,2013,81,78,88,89,58,80,1,5
-End Players
+END_PLAYERS
